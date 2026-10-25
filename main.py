@@ -1,4 +1,6 @@
 import menu
-import creartarea
+menu.ejecutar_menu()
 
-menu.menu()
+
+
+
